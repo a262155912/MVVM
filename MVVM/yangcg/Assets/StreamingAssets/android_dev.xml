@@ -1,0 +1,15 @@
+﻿<GPULevel>
+	<HighLevel>
+		<GPU Name="PowerVR Rogue G6400"/><!--具体型号待测-->
+		<GPU Name="PowerVR Rogue G6430"/><!--具体型号待测-->
+		<GPU Name="PowerVR 7XT"/><!--Helio X30，具体型号待测-->
+		<GPU Name="MuMu"/>		<!--gpu模拟器型号-->
+		<GPU Name="Tencent"/>	<!--gpu模拟器型号-->
+		<GPU Name="OpenGL"/>	<!--gpu模拟器型号-->
+		<GPU Name="ANGLE"/>		<!--gpu模拟器型号-->
+	</HighLevel>
+	<MiddleLevel>
+		<GPU Name="PowerVR Rogue G6250"/>
+		<GPU Name="PowerVR Rogue G6200"/>
+	</MiddleLevel>
+</GPULevel>

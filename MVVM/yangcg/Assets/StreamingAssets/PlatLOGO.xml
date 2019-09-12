@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Platlogo>
+  <Infos Plat="通天传奇" SeviceID="31119900000" Logo="TTCQR/logo.png" LogoBG="CMGE/loading_ditu1.png" />
+  <Infos Plat="通天传奇(+头条)" SeviceID="31119900001" Logo="TTCQR/logo.png" LogoBG="CMGE/loading_ditu1.png" />
+  <Infos Plat="问鼎沙巴克" SeviceID="31119900002" Logo="WDSBKR/logo.png" LogoBG="CMGE/loading_ditu1.png" />
+  <Infos Plat="问鼎沙巴克(+头条)" SeviceID="31119900003" Logo="WDSBKR/logo.png" LogoBG="CMGE/loading_ditu1.png" />
+</Platlogo>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"  ?>
+<Files>
+	<File Item="1" Value="OPPO OPPO A7x" OffSet = "70"/>
+	<File Item="2" Value="HUAWEI HUAWEI PAR-AL00" OffSet = "70"/>
+	<File Item="3" Value="HUAWEI HUAWEI Mate 20 Pro" OffSet = "70"/>
+	<File Item="4" Value="HUAWEI HUAWEI Mate 20" OffSet = "70"/>
+	<File Item="5" Value="OPPO OPPO R15" OffSet = "70"/>
+	<File Item="6" Value="OPPO OPPO PAAM00" OffSet = "70"/>
+	<File Item="7" Value="vivo vivo Y85A" OffSet = "70"/>
+	<File Item="8" Value="iPhone10,3|iPhone10,6" OffSet = "60"/><!-- iphoneX-->/>
+	<File Item="9" Value="iPhone11,8" OffSet = "60"/><!-- iphoneXR-->/>
+	<File Item="10" Value="iPhone11,2" OffSet = "60"/><!-- iphoneXS-->/>
+	<File Item="11" Value="iPhone11,6" OffSet = "60"/><!-- iphoneXS Max-->/>
+  <File Item="12" Value="XIAOMI XIAOMI MI8" OffSet = "70"/>
+  <File Item="13" Value="XIAOMI XIAOMI MI 8" OffSet = "70"/>
+  <File Item="14" Value="HUAWEI HUAWEI P 30" OffSet = "70"/>
+  <File Item="15" Value="HUAWEI HUAWEI P30" OffSet = "70"/>
+</Files>

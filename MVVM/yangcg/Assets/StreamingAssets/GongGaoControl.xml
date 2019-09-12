@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <!--控制公告系统是否在玩家登录游戏后自动弹出,0=不自动弹出,1=自动弹出-->
+  <GongGao GongGaoPush="1"/>
+</config>

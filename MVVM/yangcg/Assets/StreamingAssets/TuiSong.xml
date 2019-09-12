@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <TuiSong ID="1" Type="1" Time="12:00" Num="-1" Title="玄金矿石刷新" Description="【神秘矿洞】午间福利，玄金矿石刷新！" />
+  <TuiSong ID="2" Type="1" Time="18:58" Num="-1" Title="夜战比奇开战" Description="【夜战比奇】击退敌人，赢得海量威望！" />
+  <TuiSong ID="3" Type="1" Time="21:00" Num="-1" Title="天下第一武斗" Description="【武斗大会】天下第一，赢得海量威望！" />
+  <TuiSong ID="4" Type="1" Time="22:00" Num="-1" Title="玄金矿石刷新" Description="【神秘矿洞】晚间福利，玄金矿石刷新！" />
+  <TuiSong ID="5" Type="4" Time="3,19:00" Num="1" Title="传奇管家" Description="【城主召唤】您已经连续3天没登录了，您的行会兄弟都在等你一起回归战场！" />
+  <TuiSong ID="6" Type="4" Time="7,19:00" Num="1" Title="传奇管家" Description="【城主召唤】您已经连续7天没登录了，您的行会兄弟都在等你一起回归战场！" />
+  <TuiSong ID="7" Type="4" Time="15,19:00" Num="1" Title="传奇管家" Description="【城主召唤】您已经连续15天没登录了，您的行会兄弟都在等你一起回归战场！" />
+  <TuiSong ID="8" Type="4" Time="30,19:00" Num="1" Title="传奇管家" Description="【城主召唤】您已经连续30天没登录了，您的行会兄弟都在等你一起回归战场！" />
+  <TuiSong ID="9" Type="7" Time="4320,8:00_22:00,4320" Num="3" Title="传奇管家" Description="【收益达到上限】您的离线收益已达上限，累计{0}经验和超多道具赶紧领取啦！" />
+  <TuiSong ID="10" Type="7" Time="5040,8:00_22:00,4320" Num="3" Title="传奇管家" Description="【收益溢出啦！】您的离线收益已经溢出了，赶紧上线领取吧！" />
+  <TuiSong ID="11" Type="5" Time="5,8:00_22:00,4320" Num="3" Title="传奇管家" Description="【离线收益】离线收益开启，当前经验效率为：{0}经验/分钟" />
+  <TuiSong ID="12" Type="8" Time="3,8:00_22:00" Num="-1" Title="传奇管家" Description="【世界首领】您预约的{0}首领将在3分钟后刷新啦，赶紧上线争夺吧！" />
+</config>

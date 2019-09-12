@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config URL="http://192.167.0.100/ChuanQi/Resource/Android/AndroidResource/">
+  <Application VerText="Beta 1" VerCode="20191001" />
+  <Resource VerText="Beta 1" VerCode="20191001" />
+  <PackageType IsMiniPack="false" />
+  <Area AreaId="1" />
+  <Platform PtId="5" />
+  <NameServer CreateRoleRequestURL="http://cqx-login-test.tmskapp.com/cqxnameserver/checkname.php" />
+  <AppLevelUpVerCode AppLevelUpVerCode="100" />
+  <AppLevelUp VerCode="910" isOpen="1" linkurl="" msg="" />
+  <Info serverip="123.206.120.156" voiceserverip="192.168.0.100:8080/yy/audiochat/" pushserverip="115.159.75.99:28461/2/" serverlisturl="192.168.0.49/serverlist/cqx/" serverlisturlsecond="192.168.0.49/serverlist/cqx/" verifyaccountserverip="192.168.0.49/login/" versionurl="version.tmskapp.com/ChuanQi/CDN_Version/Version/AndroidTest/" iosurl="http://cqx-kingnet-login-test2.tmskapp.com/serverlist/getfileinfo.php?state=2&amp;filename=" bakurl="version.tmskapp.com/ChuanQi/CDN_Version/Version/Android/" updateclientname="" serverid="1" gameid="local" login="1" lang="0" isolateresid="1" roleNum="0" deleteRole="1" loginport="29999" gameport="20001" gongGaoUrl="http://192.168.0.226/gonggao_android.xml" adserverip="" payserverip="" isZip="0" gongGaoTabUrl="http://192.168.0.226/gonggaotab_android.xml" />
+  <Test TestURL="http://115.159.75.96/cq/NewVersion/Android/SDZTC/" />
+</Config>

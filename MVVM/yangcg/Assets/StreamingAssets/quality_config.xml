@@ -1,0 +1,30 @@
+﻿<!--
+渲染品质配置，每一项4个数据分别对应最高、中、低、挂机渲染品质
+ShaderOnLoad：创角界面ShaderLOD
+ParticleOnLoad：创角界面是否支持粒子及后处理
+ShaderLOD
+VisiblePlayer：最大同屏可见玩家数量
+MaxSkillCount：最大同屏可见技能特效
+MaxRes：屏幕最大分辨率
+ScreenScale：屏幕分辨率缩放比
+Particel：开启粒子
+PostEffect：开启热扭曲等后处理效果
+WaterDistort：开启水面扭曲效果
+CameraBloom: 开启屏幕泛光后处理
+-->
+<RenderSettings
+  ShaderOnLoad="300, 300, 300, 200"
+  ParticleOnLoad="1, 1, 1, 0"
+  ShaderLOD="300, 200, 200, 150"
+  VisiblePlayer="50, 25, 10, 0"
+  MaxSkillCount="8, 5, 3, 0"
+  MaxRes="960, 960, 720, 540"
+  ScreenScale="75, 60, 50, 50"
+  Particle="1, 1, 0, 0"
+  PostEffect="1, 0, 0, 0"
+  WaterDistort="1, 0, 0, 0"
+  Shadow="1, 0, 0, 0"
+  CameraBloom ="1, 0, 0, 0"
+  ResQuality ="1, 1, 0, 0"
+  VisibleMonster ="60, 30, 20, 0"
+  />

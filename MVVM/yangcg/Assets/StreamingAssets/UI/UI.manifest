@@ -1,0 +1,2607 @@
+ManifestFileVersion: 0
+CRC: 4108738587
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uiresources/prefabs/ui/arenaui.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_5: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_6: uiresources/atlas/huobi.awb
+        Dependency_7: uiresources/atlas/arenapart_atlas.awb
+        Dependency_8: uiresources/atlas/main_atlas.awb
+        Dependency_9: uiresources/atlas/chuangtianguan_atlas.awb
+        Dependency_10: uiresources/uitexiao/mesh.awb
+        Dependency_11: resources/shaders/forartist.awb
+        Dependency_12: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_13: uiresources/atlas/number_atlas.awb
+        Dependency_14: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_15: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_16: uiresources/atlas/commonbackground_atlas.awb
+    Info_1:
+      Name: uiresources/prefabs/fonts.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_2:
+      Name: plugins/ngui/resources/shaders.awb
+      Dependencies: {}
+    Info_3:
+      Name: uiresources/atlas/allpicturewords_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_4:
+      Name: resources/shaders/forartist/effect.awb
+      Dependencies: {}
+    Info_5:
+      Name: uiresources/uitexiao/lujunbao/currency/mesh.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_6:
+      Name: uiresources/atlas/commonbutton_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_7:
+      Name: uiresources/atlas/huobi.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_8:
+      Name: uiresources/atlas/arenapart_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_9:
+      Name: uiresources/atlas/main_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_10:
+      Name: uiresources/atlas/chuangtianguan_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_11:
+      Name: uiresources/uitexiao/mesh.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_12:
+      Name: resources/shaders/forartist.awb
+      Dependencies: {}
+    Info_13:
+      Name: uiresources/atlas/commonmessagebox2_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_14:
+      Name: uiresources/atlas/number_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_15:
+      Name: uiresources/effects/cquitexiao/beibao.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_16:
+      Name: uiresources/atlas/goodsicon_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_17:
+      Name: uiresources/atlas/commonbackground_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_18:
+      Name: uiresources/prefabs/ui/auctionhouse.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_7: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_8: uiresources/atlas/gongnengyugao_atlas.awb
+    Info_19:
+      Name: uiresources/atlas/gongnengyugao_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_20:
+      Name: uiresources/prefabs/ui/autofinddeco.awb
+      Dependencies:
+        Dependency_0: uiresources/atlas/main_atlas.awb
+    Info_21:
+      Name: uiresources/prefabs/ui/awardgoodstip.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_2: resources/shaders/forartist/effect.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/uitexiao/mesh.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/awardgoodstips_atlas.awb
+    Info_22:
+      Name: uiresources/atlas/awardgoodstips_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_23:
+      Name: uiresources/prefabs/ui/backpack.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_8: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_9: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_10: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_11: uiresources/atlas/equippart_atlas.awb
+        Dependency_12: uiresources/atlas/cbackground5_atlas.awb
+        Dependency_13: uiresources/atlas/zhuzaishendian_atlas.awb
+        Dependency_14: uiresources/atlas/numkeybord_atlas.awb
+        Dependency_15: uiresources/prefabs/ui/icon.awb
+    Info_24:
+      Name: uiresources/atlas/equippart_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_25:
+      Name: uiresources/atlas/cbackground5_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_26:
+      Name: uiresources/atlas/zhuzaishendian_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_27:
+      Name: uiresources/atlas/numkeybord_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_28:
+      Name: uiresources/prefabs/ui/icon.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_7: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_8: uiresources/atlas/goodsicon_atlas.awb
+    Info_29:
+      Name: uiresources/prefabs/ui/baodian.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_9: uiresources/atlas/baodian_atlas.awb
+    Info_30:
+      Name: uiresources/atlas/baodian_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_31:
+      Name: uiresources/prefabs/ui/baoku.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_5: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_6: uiresources/atlas/huobi.awb
+        Dependency_7: uiresources/atlas/main_atlas.awb
+        Dependency_8: uiresources/uitexiao/mesh.awb
+        Dependency_9: resources/shaders/forartist.awb
+        Dependency_10: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_11: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_12: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_13: uiresources/atlas/equippart_atlas.awb
+        Dependency_14: uiresources/atlas/zhuzaishendian_atlas.awb
+        Dependency_15: uiresources/atlas/cqtujian_atlas.awb
+        Dependency_16: uiresources/atlas/viceocc_atlas.awb
+        Dependency_17: uiresources/prefabs/ui/common.awb
+        Dependency_18: uiresources/atlas/mijuan_atlas.awb
+        Dependency_19: uiresources/atlas/baoku_atlas.awb
+        Dependency_20: uiresources/atlas/baokuhuishou_atlas.awb
+    Info_32:
+      Name: uiresources/atlas/cqtujian_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_33:
+      Name: uiresources/atlas/viceocc_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_34:
+      Name: uiresources/prefabs/ui/common.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: uiresources/uitexiao/mesh.awb
+        Dependency_8: resources/shaders/forartist.awb
+        Dependency_9: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_10: uiresources/atlas/number_atlas.awb
+        Dependency_11: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_12: uiresources/atlas/viceocc_atlas.awb
+        Dependency_13: uiresources/atlas/others_atlas.awb
+        Dependency_14: uiresources/atlas/fightcountdown.awb
+        Dependency_15: uiresources/atlas/jiaoyisuo_atlas.awb
+        Dependency_16: uiresources/atlas/questpart_atlas.awb
+        Dependency_17: uiresources/atlas/maintestcode_atlas.awb
+        Dependency_18: uiresources/prefabs/ui/toplist.awb
+        Dependency_19: uiresources/atlas/talkdialog_atlas.awb
+    Info_35:
+      Name: uiresources/atlas/mijuan_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_36:
+      Name: uiresources/atlas/baoku_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_37:
+      Name: uiresources/atlas/baokuhuishou_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_38:
+      Name: uiresources/prefabs/ui/baoweihanghui.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/uitexiao/mesh.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/bossrefresh_atlas.awb
+    Info_39:
+      Name: uiresources/atlas/bossrefresh_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_40:
+      Name: uiresources/prefabs/ui/baoxiangpreview.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/huobi.awb
+    Info_41:
+      Name: uiresources/prefabs/ui/bestronger.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_7: uiresources/atlas/equippart_atlas.awb
+        Dependency_8: uiresources/atlas/bianqiang_atlas.awb
+    Info_42:
+      Name: uiresources/atlas/bianqiang_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_43:
+      Name: uiresources/prefabs/ui/bigbang.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_6: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_7: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_8: netimages/image.awb
+    Info_44:
+      Name: netimages/image.awb
+      Dependencies: {}
+    Info_45:
+      Name: uiresources/prefabs/ui/biqibattle.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/awardgoodstips_atlas.awb
+        Dependency_9: uiresources/atlas/neigongtask_atlas.awb
+    Info_46:
+      Name: uiresources/atlas/neigongtask_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_47:
+      Name: uiresources/prefabs/ui/biqibattlehud.awb
+      Dependencies:
+        Dependency_0: uiresources/atlas/main_atlas.awb
+        Dependency_1: uiresources/atlas/hud_atlas.awb
+    Info_48:
+      Name: uiresources/atlas/hud_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_49:
+      Name: uiresources/prefabs/ui/boss.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: uiresources/uitexiao/mesh.awb
+        Dependency_8: resources/shaders/forartist.awb
+        Dependency_9: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_10: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_11: uiresources/atlas/cbackground5_atlas.awb
+        Dependency_12: uiresources/atlas/numkeybord_atlas.awb
+        Dependency_13: uiresources/atlas/boss_atlas.awb
+    Info_50:
+      Name: uiresources/atlas/boss_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_51:
+      Name: uiresources/prefabs/ui/boxfubenbosscountrefresh.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+    Info_52:
+      Name: uiresources/prefabs/ui/boxfubenbossstatusrefresh.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/main_atlas.awb
+    Info_53:
+      Name: uiresources/prefabs/ui/buff.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+    Info_54:
+      Name: uiresources/prefabs/ui/cangyuehoudao.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+    Info_55:
+      Name: uiresources/prefabs/ui/chaozhilibao.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/atlas/cqjierihuodong_atlas.awb
+        Dependency_5: uiresources/atlas/chaozhilibao_atlas.awb
+    Info_56:
+      Name: uiresources/atlas/cqjierihuodong_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: uiresources/atlas/number_atlas.awb
+    Info_57:
+      Name: uiresources/atlas/chaozhilibao_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_58:
+      Name: uiresources/prefabs/ui/checkingupdategame.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+    Info_59:
+      Name: uiresources/prefabs/ui/chixuelongyu.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+    Info_60:
+      Name: uiresources/prefabs/ui/chongzhifuli.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_7: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_8: uiresources/atlas/neigongtask_atlas.awb
+        Dependency_9: uiresources/atlas/jierihuodong_atlas.awb
+        Dependency_10: uiresources/atlas/vipwin_atlas.awb
+        Dependency_11: uiresources/atlas/everydayrecharge_atlas.awb
+        Dependency_12: uiresources/prefabs/ui/oldfuli.awb
+        Dependency_13: uiresources/atlas/xinfuactivitywin_atlas.awb
+        Dependency_14: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_15: uiresources/atlas/sevendaysactivity_atlas.awb
+    Info_61:
+      Name: uiresources/atlas/jierihuodong_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_62:
+      Name: uiresources/atlas/vipwin_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_63:
+      Name: uiresources/atlas/everydayrecharge_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_64:
+      Name: uiresources/prefabs/ui/oldfuli.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_8: uiresources/atlas/jierihuodong_atlas.awb
+        Dependency_9: uiresources/atlas/xinfuactivitywin_atlas.awb
+        Dependency_10: uiresources/atlas/fuliwin_atlas.awb
+        Dependency_11: uiresources/effects/uitexiao/prefabs/caifuzengjia.awb
+    Info_65:
+      Name: uiresources/atlas/xinfuactivitywin_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_66:
+      Name: uiresources/atlas/bighuobi_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_67:
+      Name: uiresources/atlas/sevendaysactivity_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_68:
+      Name: uiresources/prefabs/ui/chongzhihaoli.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_8: uiresources/atlas/commonbackground_atlas.awb
+    Info_69:
+      Name: uiresources/prefabs/ui/chuangtianguan.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/chuangtianguan_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/newcbackground3_atlas.awb
+    Info_70:
+      Name: uiresources/atlas/newcbackground3_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_71:
+      Name: uiresources/prefabs/ui/cloudbuy.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_7: uiresources/atlas/yungou_atlas.awb
+        Dependency_8: uiresources/atlas/lianlu_atlas.awb
+    Info_72:
+      Name: uiresources/atlas/yungou_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_73:
+      Name: uiresources/atlas/lianlu_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_74:
+      Name: uiresources/prefabs/ui/commbackground.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_75:
+      Name: uiresources/atlas/others_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_76:
+      Name: uiresources/atlas/fightcountdown.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_77:
+      Name: uiresources/atlas/jiaoyisuo_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_78:
+      Name: uiresources/atlas/questpart_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_79:
+      Name: uiresources/atlas/maintestcode_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_80:
+      Name: uiresources/prefabs/ui/toplist.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/number_atlas.awb
+    Info_81:
+      Name: uiresources/atlas/talkdialog_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_82:
+      Name: uiresources/prefabs/ui/commonfubenbattleresultpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/atlas/chuangtianguan_atlas.awb
+        Dependency_5: uiresources/uitexiao/mesh.awb
+        Dependency_6: resources/shaders/forartist.awb
+    Info_83:
+      Name: uiresources/prefabs/ui/cqcangbaotu.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: resources/shaders/forartist.awb
+        Dependency_6: uiresources/atlas/baobox_atlas.awb
+    Info_84:
+      Name: uiresources/atlas/baobox_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_85:
+      Name: uiresources/prefabs/ui/cqjierihuodong.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/prefabs/ui/icon.awb
+        Dependency_7: uiresources/atlas/cqjierihuodong_atlas.awb
+        Dependency_8: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_9: uiresources/atlas/mapwin_atlas.awb
+    Info_86:
+      Name: uiresources/atlas/mapwin_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_87:
+      Name: uiresources/prefabs/ui/cqtujian.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/cqtujian_atlas.awb
+    Info_88:
+      Name: uiresources/prefabs/ui/cqvippart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: resources/shaders/forartist.awb
+        Dependency_6: uiresources/atlas/yewaicaikuang_atlas.awb
+        Dependency_7: uiresources/atlas/renwu_atlas.awb
+    Info_89:
+      Name: uiresources/atlas/yewaicaikuang_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_90:
+      Name: uiresources/atlas/renwu_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_91:
+      Name: uiresources/prefabs/ui/cqzuoqi.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_7: uiresources/atlas/cqzuoqi_atlas.awb
+    Info_92:
+      Name: uiresources/atlas/cqzuoqi_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_93:
+      Name: uiresources/prefabs/ui/crossranking.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_8: uiresources/atlas/paihangbang_atlas.awb
+    Info_94:
+      Name: uiresources/atlas/paihangbang_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: uiresources/atlas/main_atlas.awb
+    Info_95:
+      Name: uiresources/prefabs/ui/crossserverexpedition.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_9: uiresources/atlas/crossserverexpedition_atlas.awb
+    Info_96:
+      Name: uiresources/atlas/crossserverexpedition_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_97:
+      Name: uiresources/prefabs/ui/cyactivity.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/cqjierihuodong_atlas.awb
+        Dependency_7: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_8: uiresources/atlas/hefu_atlas.awb
+    Info_98:
+      Name: uiresources/atlas/hefu_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_99:
+      Name: uiresources/prefabs/ui/dailyactivity.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_9: uiresources/atlas/baobox_atlas.awb
+        Dependency_10: uiresources/atlas/cqmeirihuoyue_atlas.awb
+        Dependency_11: uiresources/atlas/fuliwin_atlas.awb
+    Info_100:
+      Name: uiresources/atlas/cqmeirihuoyue_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_101:
+      Name: uiresources/atlas/fuliwin_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_102:
+      Name: uiresources/prefabs/ui/demoncoming.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/neigongtask_atlas.awb
+        Dependency_6: uiresources/atlas/biqibattle.awb
+    Info_103:
+      Name: uiresources/atlas/biqibattle.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_104:
+      Name: uiresources/prefabs/ui/die.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/huobi.awb
+        Dependency_4: uiresources/atlas/relife_atlas.awb
+    Info_105:
+      Name: uiresources/atlas/relife_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_106:
+      Name: uiresources/prefabs/ui/divine.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: uiresources/uitexiao/mesh.awb
+        Dependency_8: resources/shaders/forartist.awb
+        Dependency_9: uiresources/atlas/chatwin_atlas.awb
+        Dependency_10: uiresources/atlas/taskwin_atlas.awb
+        Dependency_11: uiresources/atlas/chouqian_atlas.awb
+    Info_107:
+      Name: uiresources/atlas/chatwin_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_108:
+      Name: uiresources/atlas/taskwin_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_109:
+      Name: uiresources/atlas/chouqian_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_110:
+      Name: uiresources/prefabs/ui/duorenfuben.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_7: uiresources/atlas/duorenfuben_atlas.awb
+        Dependency_8: uiresources/atlas/materialdungeon_atlas.awb
+    Info_111:
+      Name: uiresources/atlas/duorenfuben_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_112:
+      Name: uiresources/atlas/materialdungeon_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_113:
+      Name: uiresources/prefabs/ui/email.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: resources/shaders/forartist.awb
+    Info_114:
+      Name: uiresources/prefabs/ui/escort.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_8: uiresources/atlas/escortclub.awb
+        Dependency_9: uiresources/atlas/escort.awb
+    Info_115:
+      Name: uiresources/atlas/escortclub.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_116:
+      Name: uiresources/atlas/escort.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_117:
+      Name: uiresources/prefabs/ui/explianzhi.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/uitexiao/mesh.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/bighuobi_atlas.awb
+    Info_118:
+      Name: uiresources/prefabs/ui/family.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_5: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_6: uiresources/atlas/huobi.awb
+        Dependency_7: uiresources/atlas/main_atlas.awb
+        Dependency_8: uiresources/uitexiao/mesh.awb
+        Dependency_9: resources/shaders/forartist.awb
+        Dependency_10: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_11: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_12: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_13: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_14: uiresources/atlas/cbackground5_atlas.awb
+        Dependency_15: uiresources/prefabs/ui/common.awb
+        Dependency_16: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_17: uiresources/atlas/baobox_atlas.awb
+        Dependency_18: uiresources/atlas/familyally_atlas.awb
+        Dependency_19: uiresources/atlas/familywincq_atlas.awb
+        Dependency_20: uiresources/atlas/familyexam_atlas.awb
+        Dependency_21: uiresources/atlas/familytanhepart_atlas.awb
+    Info_119:
+      Name: uiresources/atlas/familyally_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_120:
+      Name: uiresources/atlas/familywincq_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_121:
+      Name: uiresources/atlas/familyexam_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_122:
+      Name: uiresources/atlas/familytanhepart_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_123:
+      Name: uiresources/prefabs/ui/fireydragon.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/main_atlas.awb
+    Info_124:
+      Name: uiresources/prefabs/ui/firstworldpart.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: uiresources/atlas/main_atlas.awb
+    Info_125:
+      Name: uiresources/prefabs/ui/fishing.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_5: uiresources/atlas/fishing_atlas.awb
+    Info_126:
+      Name: uiresources/atlas/fishing_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_127:
+      Name: uiresources/prefabs/ui/friends.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_8: uiresources/atlas/friend_atlas.awb
+        Dependency_9: uiresources/atlas/duiwu_atlas.awb
+    Info_128:
+      Name: uiresources/atlas/friend_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_129:
+      Name: uiresources/atlas/duiwu_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_130:
+      Name: uiresources/prefabs/ui/fuli.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_9: uiresources/atlas/number_atlas.awb
+        Dependency_10: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_11: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_12: uiresources/atlas/numkeybord_atlas.awb
+        Dependency_13: netimages/image.awb
+        Dependency_14: uiresources/atlas/fuliwin_atlas.awb
+        Dependency_15: uiresources/atlas/lianzhi_atlas.awb
+    Info_131:
+      Name: uiresources/atlas/lianzhi_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_132:
+      Name: uiresources/prefabs/ui/gfyingimageex.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/uitexiao/mesh.awb
+        Dependency_5: resources/shaders/forartist.awb
+        Dependency_6: uiresources/atlas/gongnengyugao_atlas.awb
+    Info_133:
+      Name: uiresources/prefabs/ui/gonggao.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/gonggao_atlas.awb
+    Info_134:
+      Name: uiresources/atlas/gonggao_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_135:
+      Name: uiresources/prefabs/ui/gongnengyulanpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/gongnengyugao_atlas.awb
+    Info_136:
+      Name: uiresources/prefabs/ui/guanzhi.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_5: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_6: uiresources/atlas/huobi.awb
+        Dependency_7: uiresources/atlas/main_atlas.awb
+        Dependency_8: uiresources/uitexiao/mesh.awb
+        Dependency_9: resources/shaders/forartist.awb
+        Dependency_10: uiresources/atlas/guanzhi_atlas.awb
+    Info_137:
+      Name: uiresources/atlas/guanzhi_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_138:
+      Name: uiresources/prefabs/ui/gumodong.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+    Info_139:
+      Name: uiresources/prefabs/ui/hecheng.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: uiresources/uitexiao/mesh.awb
+        Dependency_8: resources/shaders/forartist.awb
+        Dependency_9: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_10: uiresources/atlas/equippart_atlas.awb
+        Dependency_11: netimages/image.awb
+        Dependency_12: uiresources/atlas/lianlu_atlas.awb
+        Dependency_13: uiresources/atlas/chatwin_atlas.awb
+        Dependency_14: uiresources/atlas/hecheng_atlas.awb
+    Info_140:
+      Name: uiresources/atlas/hecheng_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_141:
+      Name: uiresources/prefabs/ui/hefuactivity.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/cqjierihuodong_atlas.awb
+        Dependency_7: uiresources/atlas/jierihuodong_atlas.awb
+        Dependency_8: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_9: uiresources/atlas/hefu_atlas.awb
+        Dependency_10: uiresources/atlas/xinfushabake_atlas.awb
+        Dependency_11: uiresources/atlas/chongzhihaoli_atlas.awb
+    Info_142:
+      Name: uiresources/atlas/xinfushabake_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_143:
+      Name: uiresources/atlas/chongzhihaoli_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_144:
+      Name: uiresources/prefabs/ui/hefuhuodong.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+    Info_145:
+      Name: uiresources/prefabs/ui/hero.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/number_atlas.awb
+        Dependency_9: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_10: uiresources/prefabs/ui/backpack.awb
+        Dependency_11: uiresources/atlas/bianqiang_atlas.awb
+        Dependency_12: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_13: uiresources/atlas/hero_atlas.awb
+        Dependency_14: uiresources/atlas/roleattribute_atlas.awb
+    Info_146:
+      Name: uiresources/atlas/hero_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_147:
+      Name: uiresources/atlas/roleattribute_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_148:
+      Name: uiresources/prefabs/ui/hjshabake.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_5: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: uiresources/uitexiao/mesh.awb
+        Dependency_8: resources/shaders/forartist.awb
+        Dependency_9: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_10: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_11: netimages/image.awb
+        Dependency_12: uiresources/atlas/paihangbang_atlas.awb
+        Dependency_13: uiresources/atlas/taskwin_atlas.awb
+        Dependency_14: uiresources/atlas/xinfushabake_atlas.awb
+        Dependency_15: uiresources/atlas/raiderslostarkpart_atlas.awb
+    Info_149:
+      Name: uiresources/atlas/raiderslostarkpart_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_150:
+      Name: uiresources/prefabs/ui/homeui.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/atlas/equippart_atlas.awb
+    Info_151:
+      Name: uiresources/prefabs/ui/hotfix.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+    Info_152:
+      Name: uiresources/prefabs/ui/huwang.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_6: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_7: uiresources/atlas/vipwin_atlas.awb
+        Dependency_8: uiresources/atlas/huwang_atlas.awb
+    Info_153:
+      Name: uiresources/atlas/huwang_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_154:
+      Name: uiresources/prefabs/ui/huwangshengdian.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_5: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_6: uiresources/prefabs/ui/escort.awb
+    Info_155:
+      Name: uiresources/prefabs/ui/huyueactivity.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_7: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_8: uiresources/atlas/cqjierihuodong_atlas.awb
+        Dependency_9: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_10: uiresources/atlas/hefu_atlas.awb
+    Info_156:
+      Name: uiresources/prefabs/ui/huyuedong.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+    Info_157:
+      Name: uiresources/prefabs/ui/huyueshengdian.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: netimages/image.awb
+        Dependency_9: uiresources/atlas/huyueshengdian_atlas.awb
+    Info_158:
+      Name: uiresources/atlas/huyueshengdian_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_159:
+      Name: uiresources/prefabs/ui/huyueta.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/uitexiao/mesh.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_8: uiresources/atlas/raiderslostarkpart_atlas.awb
+        Dependency_9: uiresources/atlas/shimumizhen_atlas.awb
+        Dependency_10: uiresources/atlas/diaoxiangmobai_atlas.awb
+    Info_160:
+      Name: uiresources/atlas/shimumizhen_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_161:
+      Name: uiresources/atlas/diaoxiangmobai_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_162:
+      Name: uiresources/prefabs/ui/jiandingshi.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/uitexiao/mesh.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/jiandingshi_atlas.awb
+    Info_163:
+      Name: uiresources/atlas/jiandingshi_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_164:
+      Name: uiresources/prefabs/ui/jiaoyisuopart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_7: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_8: uiresources/atlas/jiaoyisuo_atlas.awb
+        Dependency_9: uiresources/atlas/familyally_atlas.awb
+    Info_165:
+      Name: uiresources/prefabs/ui/jierihuodong.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_9: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_10: uiresources/atlas/jierihuodong_atlas.awb
+        Dependency_11: uiresources/atlas/xinfuactivitywin_atlas.awb
+        Dependency_12: uiresources/atlas/fuliwin_atlas.awb
+    Info_166:
+      Name: uiresources/prefabs/ui/jingyuan.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_6: uiresources/atlas/duorenfuben_atlas.awb
+        Dependency_7: uiresources/atlas/jingyuan_atlas.awb
+        Dependency_8: uiresources/atlas/skillpart_atlas.awb
+    Info_167:
+      Name: uiresources/atlas/jingyuan_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_168:
+      Name: uiresources/atlas/skillpart_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_169:
+      Name: uiresources/prefabs/ui/kuafuhuodongabout.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+        Dependency_3: resources/shaders/forartist.awb
+    Info_170:
+      Name: uiresources/prefabs/ui/kuaisuzudui.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_5: uiresources/atlas/commonbackground_atlas.awb
+    Info_171:
+      Name: uiresources/prefabs/ui/launcher.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_2: resources/shaders/forartist.awb
+        Dependency_3: uiresources/atlas/hud_atlas.awb
+        Dependency_4: uiresources/atlas/damagefont_atlas.awb
+        Dependency_5: uiresources/prefabs/hud.awb
+        Dependency_6: uiresources/atlas/uiroot2d.awb
+    Info_172:
+      Name: uiresources/atlas/damagefont_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_173:
+      Name: uiresources/prefabs/hud.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/hud_atlas.awb
+    Info_174:
+      Name: uiresources/atlas/uiroot2d.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_175:
+      Name: uiresources/prefabs/ui/liangongfangpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+    Info_176:
+      Name: uiresources/prefabs/ui/lianlupart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: uiresources/uitexiao/mesh.awb
+        Dependency_8: resources/shaders/forartist.awb
+        Dependency_9: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_10: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_11: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_12: uiresources/atlas/equippart_atlas.awb
+        Dependency_13: uiresources/atlas/cbackground5_atlas.awb
+        Dependency_14: uiresources/atlas/lianlu_atlas.awb
+        Dependency_15: uiresources/atlas/others_atlas.awb
+        Dependency_16: uiresources/atlas/baoshi_atlas.awb
+    Info_177:
+      Name: uiresources/atlas/baoshi_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_178:
+      Name: uiresources/prefabs/ui/liaotian.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/prefabs/ui/divine.awb
+        Dependency_7: uiresources/atlas/chatwin_atlas.awb
+        Dependency_8: uiresources/atlas/chatwinbak_atlas.awb
+        Dependency_9: resources/prefabs/atlas.awb
+    Info_179:
+      Name: uiresources/atlas/chatwinbak_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_180:
+      Name: resources/prefabs/atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_181:
+      Name: uiresources/prefabs/ui/lightwing.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+    Info_182:
+      Name: uiresources/prefabs/ui/lilian.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: resources/shaders/forartist.awb
+        Dependency_5: uiresources/atlas/lilian_atlas.awb
+    Info_183:
+      Name: uiresources/atlas/lilian_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_184:
+      Name: uiresources/prefabs/ui/liliantitle.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/hud_atlas.awb
+    Info_185:
+      Name: uiresources/prefabs/ui/lixianshouyi.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_7: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_8: uiresources/prefabs/ui/icon.awb
+        Dependency_9: uiresources/atlas/mingxiang_atlas.awb
+    Info_186:
+      Name: uiresources/atlas/mingxiang_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_187:
+      Name: uiresources/prefabs/ui/loadinggame.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/platformlogin_atlas.awb
+    Info_188:
+      Name: uiresources/atlas/platformlogin_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_189:
+      Name: uiresources/prefabs/ui/loadingmap.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/loadingmap_atlas.awb
+    Info_190:
+      Name: uiresources/atlas/loadingmap_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_191:
+      Name: uiresources/prefabs/ui/login.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/uitexiao/mesh.awb
+        Dependency_5: resources/shaders/forartist.awb
+        Dependency_6: uiresources/atlas/platformlogin_atlas.awb
+    Info_192:
+      Name: uiresources/prefabs/ui/lowpower.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+    Info_193:
+      Name: uiresources/prefabs/ui/luapublicdialogpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/taskwin_atlas.awb
+    Info_194:
+      Name: uiresources/prefabs/ui/luck.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/huobi.awb
+        Dependency_3: resources/shaders/forartist.awb
+    Info_195:
+      Name: uiresources/prefabs/ui/mainui.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: uiresources/uitexiao/mesh.awb
+        Dependency_8: resources/shaders/forartist.awb
+        Dependency_9: uiresources/atlas/equippart_atlas.awb
+        Dependency_10: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_11: uiresources/prefabs/ui/demoncoming.awb
+        Dependency_12: uiresources/atlas/chatwin_atlas.awb
+        Dependency_13: uiresources/atlas/taskwin_atlas.awb
+        Dependency_14: uiresources/prefabs/ui/escort.awb
+        Dependency_15: uiresources/atlas/huwang_atlas.awb
+        Dependency_16: resources/shaders/uishader/ui.awb
+        Dependency_17: uiresources/effects/uitexiao/prefabs/caifuzengjia.awb
+    Info_196:
+      Name: resources/shaders/uishader/ui.awb
+      Dependencies: {}
+    Info_197:
+      Name: uiresources/effects/uitexiao/prefabs/caifuzengjia.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_198:
+      Name: uiresources/prefabs/ui/mallpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_8: uiresources/atlas/shangcheng_atlas.awb
+    Info_199:
+      Name: uiresources/atlas/shangcheng_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_200:
+      Name: uiresources/prefabs/ui/map.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: resources/shaders/forartist.awb
+        Dependency_6: uiresources/atlas/mapwin_atlas.awb
+        Dependency_7: uiresources/prefabs/ui/mainui.awb
+    Info_201:
+      Name: uiresources/prefabs/ui/marriage.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_5: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_6: uiresources/atlas/huobi.awb
+        Dependency_7: uiresources/atlas/main_atlas.awb
+        Dependency_8: uiresources/uitexiao/mesh.awb
+        Dependency_9: resources/shaders/forartist.awb
+        Dependency_10: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_11: uiresources/atlas/neigongtask_atlas.awb
+        Dependency_12: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_13: uiresources/atlas/baobox_atlas.awb
+        Dependency_14: uiresources/atlas/taskwin_atlas.awb
+        Dependency_15: uiresources/atlas/marriage_atlas.awb
+        Dependency_16: uiresources/atlas/marriagecar_atlas.awb
+    Info_202:
+      Name: uiresources/atlas/marriage_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_203:
+      Name: uiresources/atlas/marriagecar_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_204:
+      Name: uiresources/prefabs/ui/messagebox.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/huobi.awb
+        Dependency_4: uiresources/atlas/commonmessagebox2_atlas.awb
+    Info_205:
+      Name: uiresources/prefabs/ui/mobai.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/diaoxiangmobai_atlas.awb
+    Info_206:
+      Name: uiresources/prefabs/ui/neigong.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/huobi.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_6: uiresources/atlas/neigongtask_atlas.awb
+    Info_207:
+      Name: uiresources/prefabs/ui/newchengjiupart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_9: uiresources/prefabs/ui/bestronger.awb
+    Info_208:
+      Name: uiresources/prefabs/ui/niangjiu.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: uiresources/uitexiao/mesh.awb
+        Dependency_8: resources/shaders/forartist.awb
+        Dependency_9: uiresources/atlas/niangjiu_atlas.awb
+    Info_209:
+      Name: uiresources/atlas/niangjiu_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_210:
+      Name: uiresources/prefabs/ui/npcdialog.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/huobi.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/taskwin_atlas.awb
+    Info_211:
+      Name: uiresources/prefabs/ui/otherattributepart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_6: uiresources/prefabs/ui/backpack.awb
+        Dependency_7: uiresources/atlas/cqzuoqi_atlas.awb
+        Dependency_8: uiresources/atlas/roleattribute_atlas.awb
+    Info_212:
+      Name: uiresources/prefabs/ui/personal.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_9: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_10: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_11: uiresources/prefabs/ui/backpack.awb
+        Dependency_12: uiresources/atlas/roleattribute_atlas.awb
+        Dependency_13: uiresources/atlas/zhuansheng_atlas.awb
+        Dependency_14: uiresources/atlas/cqneigong_atlas.awb
+    Info_213:
+      Name: uiresources/atlas/zhuansheng_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_214:
+      Name: uiresources/atlas/cqneigong_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_215:
+      Name: uiresources/prefabs/ui/playertradingpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/cqjiaoyi_atlas.awb
+    Info_216:
+      Name: uiresources/atlas/cqjiaoyi_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_217:
+      Name: uiresources/prefabs/ui/privilege.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_6: uiresources/atlas/mapwin_atlas.awb
+        Dependency_7: uiresources/atlas/privilege_atlas.awb
+    Info_218:
+      Name: uiresources/atlas/privilege_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_219:
+      Name: uiresources/prefabs/ui/qiyupart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: resources/shaders/forartist.awb
+        Dependency_5: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_6: uiresources/atlas/equip_tips_atlas.awb
+    Info_220:
+      Name: uiresources/atlas/equip_tips_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_221:
+      Name: uiresources/prefabs/ui/qiyutaskpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/uitexiao/mesh.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/qiyu_atlas.awb
+    Info_222:
+      Name: uiresources/atlas/qiyu_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_223:
+      Name: uiresources/prefabs/ui/qiyutehuipart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/huobi.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/qianggou_atlas.awb
+    Info_224:
+      Name: uiresources/atlas/qianggou_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_225:
+      Name: uiresources/prefabs/ui/qmhongbao.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/qmhongbao_atlas.awb
+    Info_226:
+      Name: uiresources/atlas/qmhongbao_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_227:
+      Name: uiresources/prefabs/ui/raiderslostarkpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/raiderslostarkpart_atlas.awb
+    Info_228:
+      Name: uiresources/prefabs/ui/richangactivity.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/neigongtask_atlas.awb
+        Dependency_9: uiresources/atlas/goldpigboss_atlas.awb
+    Info_229:
+      Name: uiresources/atlas/goldpigboss_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_230:
+      Name: uiresources/prefabs/ui/rolemanager.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_9: uiresources/atlas/deleterole_atlas.awb
+        Dependency_10: uiresources/atlas/cmessagebox3_atlas.awb
+        Dependency_11: uiresources/atlas/createrole_atlas.awb
+    Info_231:
+      Name: uiresources/atlas/deleterole_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_232:
+      Name: uiresources/atlas/cmessagebox3_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_233:
+      Name: uiresources/atlas/createrole_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_234:
+      Name: uiresources/prefabs/ui/sevendayactivitypart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/sevendaysactivity_atlas.awb
+    Info_235:
+      Name: uiresources/prefabs/ui/shabake.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/xinfushabake_atlas.awb
+    Info_236:
+      Name: uiresources/prefabs/ui/shachengyanhui.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_9: uiresources/atlas/shachengyanhui_atlas.awb
+    Info_237:
+      Name: uiresources/atlas/shachengyanhui_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_238:
+      Name: uiresources/prefabs/ui/shenlongxuemai.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/number_atlas.awb
+        Dependency_7: uiresources/atlas/cqshenlongxuemai_atlas.awb
+    Info_239:
+      Name: uiresources/atlas/cqshenlongxuemai_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_240:
+      Name: uiresources/prefabs/ui/shenquan.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_6: uiresources/atlas/shenquan_atlas.awb
+    Info_241:
+      Name: uiresources/atlas/shenquan_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_242:
+      Name: uiresources/prefabs/ui/shigeshilian.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+    Info_243:
+      Name: uiresources/prefabs/ui/shimumizhen.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+        Dependency_3: uiresources/uitexiao/mesh.awb
+        Dependency_4: resources/shaders/forartist.awb
+        Dependency_5: uiresources/atlas/shimumizhen_atlas.awb
+    Info_244:
+      Name: uiresources/prefabs/ui/shizhuang.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_7: uiresources/atlas/shizhuangnew_atlas.awb
+    Info_245:
+      Name: uiresources/atlas/shizhuangnew_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_246:
+      Name: uiresources/prefabs/ui/shouhugongzhu.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_2: uiresources/atlas/main_atlas.awb
+    Info_247:
+      Name: uiresources/prefabs/ui/shoulingtujian.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_6: netimages/image.awb
+        Dependency_7: uiresources/atlas/sevendaysactivity_atlas.awb
+        Dependency_8: uiresources/atlas/xinfuhuodong_atlas.awb
+        Dependency_9: uiresources/atlas/tuangou_atlas.awb
+        Dependency_10: uiresources/atlas/shoulingtujian_atlas.awb
+    Info_248:
+      Name: uiresources/atlas/xinfuhuodong_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_249:
+      Name: uiresources/atlas/tuangou_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_250:
+      Name: uiresources/atlas/shoulingtujian_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_251:
+      Name: uiresources/prefabs/ui/showlvupeffectpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/uitexiao/mesh.awb
+        Dependency_2: resources/shaders/forartist.awb
+    Info_252:
+      Name: uiresources/prefabs/ui/showmapprompt.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: uiresources/atlas/main_atlas.awb
+    Info_253:
+      Name: uiresources/prefabs/ui/skillpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_9: uiresources/atlas/viceocc_atlas.awb
+        Dependency_10: uiresources/prefabs/ui/common.awb
+        Dependency_11: uiresources/atlas/skillpart_atlas.awb
+    Info_254:
+      Name: uiresources/prefabs/ui/soultransmit.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/atlas/commonmessagebox2_atlas.awb
+    Info_255:
+      Name: uiresources/prefabs/ui/supervip.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+    Info_256:
+      Name: uiresources/prefabs/ui/systemnotice.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: resources/shaders/forartist.awb
+        Dependency_5: uiresources/atlas/dungeonnotify_atlas.awb
+    Info_257:
+      Name: uiresources/atlas/dungeonnotify_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_258:
+      Name: uiresources/prefabs/ui/systemsetting.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_6: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_7: uiresources/atlas/cqsystemsetting_atlas.awb
+    Info_259:
+      Name: uiresources/atlas/cqsystemsetting_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_260:
+      Name: uiresources/prefabs/ui/systemwizard.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/uitexiao/mesh.awb
+        Dependency_5: resources/shaders/forartist.awb
+        Dependency_6: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_7: uiresources/atlas/goodsicon_atlas.awb
+    Info_261:
+      Name: uiresources/prefabs/ui/task.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/huobi.awb
+        Dependency_6: uiresources/atlas/main_atlas.awb
+        Dependency_7: uiresources/uitexiao/mesh.awb
+        Dependency_8: resources/shaders/forartist.awb
+        Dependency_9: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_10: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_11: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_12: uiresources/atlas/renwu_atlas.awb
+        Dependency_13: uiresources/atlas/gongxuntask_atlas.awb
+        Dependency_14: uiresources/atlas/maintask_atlas.awb
+    Info_262:
+      Name: uiresources/atlas/gongxuntask_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_263:
+      Name: uiresources/atlas/maintask_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_264:
+      Name: uiresources/prefabs/ui/teampart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/commonbackground_atlas.awb
+    Info_265:
+      Name: uiresources/prefabs/ui/tips.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_9: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_10: uiresources/atlas/bossrefresh_atlas.awb
+        Dependency_11: uiresources/atlas/baoshi_atlas.awb
+        Dependency_12: uiresources/atlas/equip_tips_atlas.awb
+        Dependency_13: uiresources/atlas/equip_tips_background_atlas.awb
+    Info_266:
+      Name: uiresources/atlas/equip_tips_background_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_267:
+      Name: uiresources/prefabs/ui/tongtianjiaozhu.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_6: uiresources/atlas/tongtianjiaozhu_atlas.awb
+    Info_268:
+      Name: uiresources/atlas/tongtianjiaozhu_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_269:
+      Name: uiresources/prefabs/ui/treasureui.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_5: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_6: uiresources/atlas/huobi.awb
+        Dependency_7: uiresources/atlas/main_atlas.awb
+        Dependency_8: uiresources/uitexiao/mesh.awb
+        Dependency_9: resources/shaders/forartist.awb
+        Dependency_10: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_11: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_12: uiresources/atlas/awardgoodstips_atlas.awb
+        Dependency_13: uiresources/atlas/createrole_atlas.awb
+        Dependency_14: uiresources/atlas/xunbao_atlas.awb
+    Info_270:
+      Name: uiresources/atlas/xunbao_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_271:
+      Name: uiresources/prefabs/ui/tuangou.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/cqjierihuodong_atlas.awb
+        Dependency_6: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_7: uiresources/atlas/tuangou_atlas.awb
+    Info_272:
+      Name: uiresources/prefabs/ui/uidengtaieffect.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_273:
+      Name: uiresources/prefabs/ui/uimessageboxwithtimer.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/commonmessagebox2_atlas.awb
+    Info_274:
+      Name: uiresources/prefabs/ui/updategame.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/loadingmap_atlas.awb
+    Info_275:
+      Name: uiresources/prefabs/ui/viceocc.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_6: uiresources/atlas/viceocc_atlas.awb
+    Info_276:
+      Name: uiresources/prefabs/ui/waitingqueue.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_5: uiresources/atlas/waitingqueue_atlas.awb
+    Info_277:
+      Name: uiresources/atlas/waitingqueue_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_278:
+      Name: uiresources/prefabs/ui/wudoudahui.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: resources/shaders/forartist/effect.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/awardgoodstips_atlas.awb
+        Dependency_9: uiresources/atlas/richangtask_atlas.awb
+    Info_279:
+      Name: uiresources/atlas/richangtask_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_280:
+      Name: uiresources/prefabs/ui/wuqishenshi.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_9: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_10: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_11: uiresources/prefabs/ui/jiandingshi.awb
+        Dependency_12: uiresources/atlas/jiandingshi_atlas.awb
+        Dependency_13: uiresources/atlas/wuqishenshi_atlas.awb
+    Info_281:
+      Name: uiresources/atlas/wuqishenshi_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_282:
+      Name: uiresources/prefabs/ui/xinfuhuodong.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/atlas/number_atlas.awb
+        Dependency_7: uiresources/effects/cquitexiao/beibao.awb
+        Dependency_8: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_9: uiresources/atlas/commonbackground_atlas.awb
+        Dependency_10: netimages/image.awb
+        Dependency_11: uiresources/atlas/cqjierihuodong_atlas.awb
+        Dependency_12: uiresources/atlas/chaozhilibao_atlas.awb
+        Dependency_13: uiresources/atlas/xinfuactivitywin_atlas.awb
+        Dependency_14: uiresources/atlas/bighuobi_atlas.awb
+        Dependency_15: uiresources/atlas/jiaoyisuo_atlas.awb
+        Dependency_16: uiresources/atlas/xinfushabake_atlas.awb
+        Dependency_17: uiresources/atlas/chongzhihaoli_atlas.awb
+        Dependency_18: uiresources/atlas/xinfuhuodong_atlas.awb
+    Info_283:
+      Name: uiresources/prefabs/ui/xingyunpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/uitexiao/mesh.awb
+        Dependency_5: resources/shaders/forartist.awb
+        Dependency_6: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_7: uiresources/atlas/number_atlas.awb
+        Dependency_8: uiresources/atlas/goodsicon_atlas.awb
+        Dependency_9: netimages/image.awb
+        Dependency_10: uiresources/atlas/wuqizhufu_atlas.awb
+    Info_284:
+      Name: uiresources/atlas/wuqizhufu_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_285:
+      Name: uiresources/prefabs/ui/xuanfupart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: resources/shaders/forartist.awb
+        Dependency_7: uiresources/atlas/loginxuanfu_atlas.awb
+    Info_286:
+      Name: uiresources/atlas/loginxuanfu_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_287:
+      Name: uiresources/prefabs/ui/yewaicaikuang.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: uiresources/atlas/yewaicaikuang_atlas.awb
+    Info_288:
+      Name: uiresources/prefabs/ui/yushimainpart.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/main_atlas.awb
+        Dependency_5: resources/shaders/forartist.awb
+        Dependency_6: uiresources/atlas/cqyushi_atlas.awb
+    Info_289:
+      Name: uiresources/atlas/cqyushi_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_290:
+      Name: uiresources/prefabs/ui/zaohualu.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: resources/shaders/forartist/effect.awb
+        Dependency_3: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_4: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_9: uiresources/atlas/baokuhuishou_atlas.awb
+    Info_291:
+      Name: uiresources/prefabs/ui/zipupdate.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_3: uiresources/atlas/main_atlas.awb
+        Dependency_4: uiresources/atlas/commonmessagebox2_atlas.awb
+    Info_292:
+      Name: uiresources/prefabs/ui/zuihoufangxian.awb
+      Dependencies:
+        Dependency_0: uiresources/prefabs/fonts.awb
+        Dependency_1: plugins/ngui/resources/shaders.awb
+        Dependency_2: uiresources/atlas/allpicturewords_atlas.awb
+        Dependency_3: uiresources/atlas/commonbutton_atlas.awb
+        Dependency_4: uiresources/atlas/huobi.awb
+        Dependency_5: uiresources/atlas/main_atlas.awb
+        Dependency_6: uiresources/uitexiao/mesh.awb
+        Dependency_7: resources/shaders/forartist.awb
+        Dependency_8: uiresources/atlas/commonmessagebox2_atlas.awb
+        Dependency_9: uiresources/atlas/richangtask_atlas.awb
+        Dependency_10: uiresources/atlas/zuihoufangxian_atlas.awb
+    Info_293:
+      Name: uiresources/atlas/zuihoufangxian_atlas.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_294:
+      Name: uiresources/effects/uitexiao/prefabs.awb
+      Dependencies: {}
+    Info_295:
+      Name: uiresources/effects/uitexiao/prefabs/5v5jinji.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_296:
+      Name: uiresources/effects/uitexiao/prefabs/bangpai.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_297:
+      Name: uiresources/effects/uitexiao/prefabs/baofengta.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_298:
+      Name: uiresources/effects/uitexiao/prefabs/baoshiwajue.awb
+      Dependencies: {}
+    Info_299:
+      Name: uiresources/effects/uitexiao/prefabs/baoshi_tisheng.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_300:
+      Name: uiresources/effects/uitexiao/prefabs/bianshen.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_301:
+      Name: uiresources/effects/uitexiao/prefabs/cangbaotu.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_302:
+      Name: uiresources/effects/uitexiao/prefabs/changjue.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_303:
+      Name: uiresources/effects/uitexiao/prefabs/chenggong.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_304:
+      Name: uiresources/effects/uitexiao/prefabs/chengjiu.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_305:
+      Name: uiresources/effects/uitexiao/prefabs/chibangdaoju.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_306:
+      Name: uiresources/effects/uitexiao/prefabs/chonggonglingqu.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_307:
+      Name: uiresources/effects/uitexiao/prefabs/chongwu_shengji3.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_308:
+      Name: uiresources/effects/uitexiao/prefabs/choujiang.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_309:
+      Name: uiresources/effects/uitexiao/prefabs/duorenzudui.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_310:
+      Name: uiresources/effects/uitexiao/prefabs/fivestar.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_311:
+      Name: uiresources/effects/uitexiao/prefabs/fuwenjiesuo.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_312:
+      Name: uiresources/effects/uitexiao/prefabs/haidi.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_313:
+      Name: uiresources/effects/uitexiao/prefabs/hecheng.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_314:
+      Name: uiresources/effects/uitexiao/prefabs/hunqi.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_315:
+      Name: uiresources/effects/uitexiao/prefabs/huodegaojidaoju.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_316:
+      Name: uiresources/effects/uitexiao/prefabs/huoyuedu.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_317:
+      Name: uiresources/effects/uitexiao/prefabs/jiehun.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_2: resources/shaders/forartist.awb
+        Dependency_3: resources/shaders/uishader/ui.awb
+    Info_318:
+      Name: uiresources/effects/uitexiao/prefabs/jierihuodong.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_319:
+      Name: uiresources/effects/uitexiao/prefabs/jinengshengji_glow.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_320:
+      Name: uiresources/effects/uitexiao/prefabs/jinjie.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_321:
+      Name: uiresources/effects/uitexiao/prefabs/jiyuan.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_322:
+      Name: uiresources/effects/uitexiao/prefabs/junxianxunzhang.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_323:
+      Name: uiresources/effects/uitexiao/prefabs/kaishizhencheng.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_324:
+      Name: uiresources/effects/uitexiao/prefabs/kuafufuben.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_325:
+      Name: uiresources/effects/uitexiao/prefabs/kuafulueduo.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_326:
+      Name: uiresources/effects/uitexiao/prefabs/kuafuzhan.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_327:
+      Name: uiresources/effects/uitexiao/prefabs/lingdi.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_328:
+      Name: uiresources/effects/uitexiao/prefabs/loading.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_329:
+      Name: uiresources/effects/uitexiao/prefabs/logo_womendechuanqi.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_330:
+      Name: uiresources/effects/uitexiao/prefabs/mengyan.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_331:
+      Name: uiresources/effects/uitexiao/prefabs/nvshenshengdian.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_332:
+      Name: uiresources/effects/uitexiao/prefabs/paneleffects.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_333:
+      Name: uiresources/effects/uitexiao/prefabs/pinzhikuang.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_334:
+      Name: uiresources/effects/uitexiao/prefabs/qianghua.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_335:
+      Name: uiresources/effects/uitexiao/prefabs/renwudacheng.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_336:
+      Name: uiresources/effects/uitexiao/prefabs/shangchenganjiu.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_337:
+      Name: uiresources/effects/uitexiao/prefabs/shenge.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_338:
+      Name: uiresources/effects/uitexiao/prefabs/shengji.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_339:
+      Name: uiresources/effects/uitexiao/prefabs/shengwu.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_340:
+      Name: uiresources/effects/uitexiao/prefabs/shenli.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist/effect.awb
+        Dependency_2: resources/shaders/forartist.awb
+    Info_341:
+      Name: uiresources/effects/uitexiao/prefabs/shenqibeijing.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_342:
+      Name: uiresources/effects/uitexiao/prefabs/shenyu.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_343:
+      Name: uiresources/effects/uitexiao/prefabs/shibai.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_344:
+      Name: uiresources/effects/uitexiao/prefabs/shijieshu.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_345:
+      Name: uiresources/effects/uitexiao/prefabs/star.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_346:
+      Name: uiresources/effects/uitexiao/prefabs/taitanshendian.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_347:
+      Name: uiresources/effects/uitexiao/prefabs/task.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/lujunbao/currency/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_348:
+      Name: uiresources/effects/uitexiao/prefabs/tiantisai.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_349:
+      Name: uiresources/effects/uitexiao/prefabs/tongguanjiesuan.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_350:
+      Name: uiresources/effects/uitexiao/prefabs/tubiaolizi.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_351:
+      Name: uiresources/effects/uitexiao/prefabs/ui_caiji.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+    Info_352:
+      Name: uiresources/effects/uitexiao/prefabs/xinghehuilang.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_353:
+      Name: uiresources/effects/uitexiao/prefabs/xingongnengkaiqi.awb
+      Dependencies:
+        Dependency_0: uiresources/uitexiao/mesh.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_354:
+      Name: uiresources/effects/uitexiao/prefabs/xuanshang.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_355:
+      Name: uiresources/effects/uitexiao/prefabs/xuemeng.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_356:
+      Name: uiresources/effects/uitexiao/prefabs/xunbao.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist/effect.awb
+        Dependency_2: uiresources/uitexiao/mesh.awb
+        Dependency_3: resources/shaders/forartist.awb
+    Info_357:
+      Name: uiresources/effects/uitexiao/prefabs/yindao.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_358:
+      Name: uiresources/effects/uitexiao/prefabs/yuekajiemian.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_359:
+      Name: uiresources/effects/uitexiao/prefabs/yungou.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_360:
+      Name: uiresources/effects/uitexiao/prefabs/zhandoukaishi.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_361:
+      Name: uiresources/effects/uitexiao/prefabs/zhandoushengli.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_362:
+      Name: uiresources/effects/uitexiao/prefabs/zhangjietubiao.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_363:
+      Name: uiresources/effects/uitexiao/prefabs/zhuangbeipinzhi.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_364:
+      Name: uiresources/effects/uitexiao/prefabs/zhuangbeishengxing.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
+    Info_365:
+      Name: uiresources/effects/uitexiao/prefabs/zhuansheng.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist.awb
+    Info_366:
+      Name: uiresources/effects/uitexiao/prefabs/zhuling.awb
+      Dependencies:
+        Dependency_0: plugins/ngui/resources/shaders.awb
+        Dependency_1: resources/shaders/forartist.awb
+        Dependency_2: resources/shaders/ui.awb
+    Info_367:
+      Name: resources/shaders/ui.awb
+      Dependencies: {}
+    Info_368:
+      Name: uiresources/effects/uitexiao/prefabs/zuoqi.awb
+      Dependencies:
+        Dependency_0: resources/shaders/forartist.awb
